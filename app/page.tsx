@@ -8,6 +8,7 @@ export default function Home() {
           <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
             Kvothe's Wishlist.
           </h1>
+          <h2>Holi, Azana! Esta es una lista de cosas que el capitalismo ha puesto en mi mente.</h2>
         </div>
       </main>
     </div>
