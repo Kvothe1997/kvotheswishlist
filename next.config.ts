@@ -5,7 +5,8 @@ const nextConfig: NextConfig = {
     remotePatterns: [new URL('https://m.media-amazon.com/images/I/813TAs+ZTeL._SL1500_.jpg'),
     new URL('https://m.media-amazon.com/images/I/81hXZ1Ib6gL._AC_SL1500_.jpg'),
     new URL('https://m.media-amazon.com/images/I/71UwQseCCfL._AC_SL1500_.jpg'),
-    new URL('https://m.media-amazon.com/images/I/71Y+xb97+XL._AC_SL1500_.jpg')],
+    new URL('https://m.media-amazon.com/images/I/71Y+xb97+XL._AC_SL1500_.jpg'),
+    new URL('https://m.media-amazon.com/images/I/71Y997rEAKL._AC_SL1500_.jpg')],
   },
 };
 

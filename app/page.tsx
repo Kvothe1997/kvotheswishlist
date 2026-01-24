@@ -37,6 +37,12 @@ export default function Home() {
             title={"Magic The Gathering The Lord of The Rings: Tales of Middle-Earth Commander Deck 2 + Collector Booster Sample Pack"}
             price={"55"}
           />
+          <Card
+            shopLink={"https://www.amazon.com/Magic-Gathering-Foundations-Starter-Collection/dp/B0D9KYHN4D/ref=sr_1_2?crid=1LL6DX9DNJO8O&dib=eyJ2IjoiMSJ9.TgMz6X4Q9EPzrSrH7_hWjPxhU4PneA8LgGLvOd0HWHdis8Vsu9kEdEgH27Qk_gJ_HNg6cJXTRhkhkL10GQNrsG9nrwaWLUzgxVuOx5TamHPMUKe5WRjWkxwcr04FMTuyHflRWWZDylDsDUrpRRZg-om3gCJ4ajTwRgrXN4iKWzGPk6yf4GEXOPeRuZpLTmhqCtYxoM_8G-C335OGiXjFww4s-FYU3cUf76G8VoCYm1Ldte9LnFR6tGFGwVT_bEx4YGZLaxK2m4RFEYlZolvRLmGAoHorTmhACoN-0bsU8RA.EQ2Yo7rYG8hVVu9NGQAF4dxSu11O0o6qKzvf7Th7GkM&dib_tag=se&keywords=starter%2Bkit%2Bmtg&qid=1769233331&sprefix=starter%2Bkit%2Bmtg%2Caps%2C306&sr=8-2&th=1"}
+            imageLink={"https://m.media-amazon.com/images/I/71Y997rEAKL._AC_SL1500_.jpg"}
+            title={"Magic: The Gathering Foundations - Starter Collection"}
+            price={"50"}
+          />
         </div>
       </main>
     </div>
