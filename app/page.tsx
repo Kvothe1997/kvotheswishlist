@@ -20,6 +20,12 @@ export default function Home() {
             price={"829"}
           />
           <Card
+            shopLink={"https://www.amazon.com/Magic-Gathering-Foundations-Starter-Collection/dp/B0D9KYHN4D/ref=sr_1_2?crid=1LL6DX9DNJO8O&dib=eyJ2IjoiMSJ9.TgMz6X4Q9EPzrSrH7_hWjPxhU4PneA8LgGLvOd0HWHdis8Vsu9kEdEgH27Qk_gJ_HNg6cJXTRhkhkL10GQNrsG9nrwaWLUzgxVuOx5TamHPMUKe5WRjWkxwcr04FMTuyHflRWWZDylDsDUrpRRZg-om3gCJ4ajTwRgrXN4iKWzGPk6yf4GEXOPeRuZpLTmhqCtYxoM_8G-C335OGiXjFww4s-FYU3cUf76G8VoCYm1Ldte9LnFR6tGFGwVT_bEx4YGZLaxK2m4RFEYlZolvRLmGAoHorTmhACoN-0bsU8RA.EQ2Yo7rYG8hVVu9NGQAF4dxSu11O0o6qKzvf7Th7GkM&dib_tag=se&keywords=starter%2Bkit%2Bmtg&qid=1769233331&sprefix=starter%2Bkit%2Bmtg%2Caps%2C306&sr=8-2&th=1"}
+            imageLink={"https://m.media-amazon.com/images/I/71Y997rEAKL._AC_SL1500_.jpg"}
+            title={"Magic: The Gathering Foundations - Starter Collection"}
+            price={"50"}
+          />
+          <Card
             shopLink={"https://www.amazon.com/CMF-NOTHING-Watch-Pro-Bluetooth/dp/B0F66VB1SV/ref=sr_1_1?crid=14UDGXBTMHZXU&dib=eyJ2IjoiMSJ9.Nmit4afTLnpX6oYrtFJ6sGM9BIowv-KfgrodLfpumMME0fuisFrHaO4ZrRr5IeGRZ8n2ic-2pm1OQAbOrVR2XFGPSU3SnrrpeJB7Q6jq1HbVsucXBuyl5Ed6_utPbYML7nyI11glLeU2JnV-79R0mF4KEYkfQM2Ju6LP3UG6uAUuNLFoGkh5txlD3MxFUfXpzIYbWTC6I6euJLmKf6Urg9Zj1C9Mt-Z1Qbf8mnMsFhU.7h5XfFwzovGCtfr7x25A2QOpsTyEsJGbWQS9hQzxeAQ&dib_tag=se&keywords=cmf%2Bwatch&qid=1769487668&sprefix=cmf%2Bwatch%2Caps%2C305&sr=8-1&th=1"}
             imageLink={"https://m.media-amazon.com/images/I/51nKhB-VZUL._AC_SL1010_.jpg"}
             title={"CMF by Nothing Watch 3 Pro Smart Watch"}
@@ -38,12 +44,6 @@ export default function Home() {
             price={"69.99"}
           />
           <Card
-            shopLink={"https://www.amazon.com/Magic-Gathering-Commanders-Borderless-Accessories/dp/B0FHJJS17L/ref=sr_1_1?crid=25B8116MSZA7J&dib=eyJ2IjoiMSJ9.ybOiyI7m8EQxmkTBPomE0qLwe9IDbA2LQOEdDXk8mgif4CzPJnp3UgeCexRUENh825QSSBtHHpfjWd_9ZQWs3Y1IFIKAWDxjX_KX6u_KADs1a6gHKdbTlgpiqYhkIlHvL13dJ5jimiljx9Op1zvdJUGxE7nw2cG0F5Q6JJ8V1hMoZPVuxfiAU1ky9VSqFd9taG353N2pJVFOhayRSzU7DE9UuVss2Vi8qmfmxxKKulElDLNzm9SCtSMkvKoXun7XPkFoqg-qTuFfErrkDj-ZGNZwddlt6cMVPmrCXBQBO6o.p7xftl_AD4GJdAVjc-WW9BftnACWi66eXEY9QyHPF-Q&dib_tag=se&keywords=commander+deck+avatar&qid=1769225266&sprefix=commander+deck+avat%2Caps%2C274&sr=8-1"}
-            imageLink={"https://m.media-amazon.com/images/I/81hXZ1Ib6gL._AC_SL1500_.jpg"}
-            title={"Magic: The Gathering | Avatar: The Last Airbender Commander’s Bundle"}
-            price={"109.99"}
-          />
-          <Card
             shopLink={"https://www.amazon.com/Magic-Gathering-Airbender-Jumpstart-2-Player/dp/B0FJNDCD6S/ref=sr_1_2?crid=2WAHWWMLJIMWT&dib=eyJ2IjoiMSJ9.J9gbUUFxUnPpFkANaYUtdQi8q9hOYX0Z7xpnE21QIv3hqJPltHPL6sTiYlq6gLCEQ17VBu3OpxgnHkiBme-JTKnuC2u7ycIciCRRxLt6JsJwEnaXxeZC8pcalm-VmMMxytoodC0GDT_qFRZ3klO1wC0OTIt_SPlvWjaRj6oaEivGE7p8a1BK2B3nrol5EQGzMYay3Q4SP_mz52GyYGwN3Pd4h4hJujBTAD9gMztaTQAwxqWiNgU8_-hOqTbQ_Gg_GBimBnzNMg7UBFeBqeoP_WdmjzvK985y1hdIJ7Bk7yw.JBZ6dzLXcDxn30bljIAykMggLyUjG0xkxDK3QJBCi1o&dib_tag=se&keywords=avatar+mtg&qid=1769232874&sprefix=bundle+avatar+mtg%2Caps%2C354&sr=8-2"}
             imageLink={"https://m.media-amazon.com/images/I/71Y+xb97+XL._AC_SL1500_.jpg"}
             title={"Magic: The Gathering | Avatar: The Last Airbender Jumpstart Booster Box"}
@@ -54,12 +54,6 @@ export default function Home() {
             imageLink={"https://m.media-amazon.com/images/I/813TAs+ZTeL._SL1500_.jpg"}
             title={"Magic The Gathering The Lord of The Rings: Tales of Middle-Earth Commander Deck 2 + Collector Booster Sample Pack"}
             price={"55"}
-          />
-          <Card
-            shopLink={"https://www.amazon.com/Magic-Gathering-Foundations-Starter-Collection/dp/B0D9KYHN4D/ref=sr_1_2?crid=1LL6DX9DNJO8O&dib=eyJ2IjoiMSJ9.TgMz6X4Q9EPzrSrH7_hWjPxhU4PneA8LgGLvOd0HWHdis8Vsu9kEdEgH27Qk_gJ_HNg6cJXTRhkhkL10GQNrsG9nrwaWLUzgxVuOx5TamHPMUKe5WRjWkxwcr04FMTuyHflRWWZDylDsDUrpRRZg-om3gCJ4ajTwRgrXN4iKWzGPk6yf4GEXOPeRuZpLTmhqCtYxoM_8G-C335OGiXjFww4s-FYU3cUf76G8VoCYm1Ldte9LnFR6tGFGwVT_bEx4YGZLaxK2m4RFEYlZolvRLmGAoHorTmhACoN-0bsU8RA.EQ2Yo7rYG8hVVu9NGQAF4dxSu11O0o6qKzvf7Th7GkM&dib_tag=se&keywords=starter%2Bkit%2Bmtg&qid=1769233331&sprefix=starter%2Bkit%2Bmtg%2Caps%2C306&sr=8-2&th=1"}
-            imageLink={"https://m.media-amazon.com/images/I/71Y997rEAKL._AC_SL1500_.jpg"}
-            title={"Magic: The Gathering Foundations - Starter Collection"}
-            price={"50"}
           />
         </div>
       </main>
