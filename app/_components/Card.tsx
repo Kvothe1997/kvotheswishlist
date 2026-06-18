@@ -22,7 +22,7 @@ export default function Card({ shopLink, imageLink, title, price }: CardProps) {
                         />
                     </div>
                     <h2 className="flex self-center">{title}</h2>
-                    <p className="flex self-center pb-6">Precio: ${price}</p>
+                    <p className="flex self-center pb-6">Precio: {price}</p>
                 </div>
             </Link>
         </article>
