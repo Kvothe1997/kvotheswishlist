@@ -19,7 +19,9 @@ const nextConfig: NextConfig = {
     new URL('https://diadejuegos.pe/euro-games/3605-catan-duelo.html'),
     new URL('https://diadejuegos.pe/3368-large_default/catan-duelo.jpg'),
     new URL('https://media.falabella.com/falabellaPE/153390813_01/w=1200,h=1200,fit=pad'),
-    new URL('https://www.falabella.com.pe/falabella-pe/product/153390812/consola-playstation-5-slim-digital-sony/153390813?kid=shopp44fc&gclsrc=aw.ds&gad_source=1&gad_campaignid=20114538213&gbraid=0AAAAADs9MO2aooNxTq_tGr64QgGunHWpL&gclid=CjwKCAjwl97RBhBWEiwAa9rbXeKv8YDbI2HaCAAEI1GxYnSNMxtVQjJo8eb2RPy4h4d7colXoK__phoCfuwQAvD_BwE')],
+    new URL('https://www.falabella.com.pe/falabella-pe/product/153390812/consola-playstation-5-slim-digital-sony/153390813?kid=shopp44fc&gclsrc=aw.ds&gad_source=1&gad_campaignid=20114538213&gbraid=0AAAAADs9MO2aooNxTq_tGr64QgGunHWpL&gclid=CjwKCAjwl97RBhBWEiwAa9rbXeKv8YDbI2HaCAAEI1GxYnSNMxtVQjJo8eb2RPy4h4d7colXoK__phoCfuwQAvD_BwE'),
+    new URL('https://es.aliexpress.com/item/1005007506754284.html?spm=a2g0o.productlist.main.1.1e441fe4fAQMlf&algo_pvid=58dcd938-f9cd-4424-8cb3-65d8322a4d8a&algo_exp_id=58dcd938-f9cd-4424-8cb3-65d8322a4d8a-0&pdp_ext_f=%7B%22order%22%3A%229720%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21PEN%21378.83%21117.43%21%21%21731.62%21226.80%21%402101e2b217827685315536489e9f89%2112000041062383996%21sea%21PE%211630872821%21X%211%210%21n_tag%3A-29919%3Bd%3Abc72f2f4%3Bm03_new_user%3A-29895&curPageLogUid=qRac1uNKxsjM&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007506754284%7C_p_origin_prod%3A&_gl=1*ou03go*_gcl_aw*R0NMLjE3ODI3Njg1MjguQ2owS0NRandyNGpTQmhDU0FSSXNBT1gxRS1JOXN3aUQtY1loZTE4UG5Fd2NuVWN1WUpKTXhnRlo3RHk3RDZ6YU1ZMzhHbGRJbDJkWUtvSWFBcFFWRUFMd193Y0I.*_gcl_au*MjA3OTczNjUwMi4xNzgxNzQ2NjU2*_ga*Nzc0NjEwNTA1LjE3ODE3NDY2NTY.*_ga_VED1YSGNC7*czE3ODI3NjY3NDUkbzUkZzEkdDE3ODI3Njg1MzIkajU2JGwwJGgw'),
+    new URL('https://ae01.alicdn.com/kf/S269e8bfc830a4dd88111098122119449n.png'),],
   },
 };
 

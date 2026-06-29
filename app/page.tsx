@@ -32,6 +32,12 @@ export default function Home() {
             price={"S/. 155 soles"}
           />
           <Card
+            shopLink={"https://es.aliexpress.com/item/1005007506754284.html?spm=a2g0o.productlist.main.1.1e441fe4fAQMlf&algo_pvid=58dcd938-f9cd-4424-8cb3-65d8322a4d8a&algo_exp_id=58dcd938-f9cd-4424-8cb3-65d8322a4d8a-0&pdp_ext_f=%7B%22order%22%3A%229720%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21PEN%21378.83%21117.43%21%21%21731.62%21226.80%21%402101e2b217827685315536489e9f89%2112000041062383996%21sea%21PE%211630872821%21X%211%210%21n_tag%3A-29919%3Bd%3Abc72f2f4%3Bm03_new_user%3A-29895&curPageLogUid=qRac1uNKxsjM&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007506754284%7C_p_origin_prod%3A&_gl=1*ou03go*_gcl_aw*R0NMLjE3ODI3Njg1MjguQ2owS0NRandyNGpTQmhDU0FSSXNBT1gxRS1JOXN3aUQtY1loZTE4UG5Fd2NuVWN1WUpKTXhnRlo3RHk3RDZ6YU1ZMzhHbGRJbDJkWUtvSWFBcFFWRUFMd193Y0I.*_gcl_au*MjA3OTczNjUwMi4xNzgxNzQ2NjU2*_ga*Nzc0NjEwNTA1LjE3ODE3NDY2NTY.*_ga_VED1YSGNC7*czE3ODI3NjY3NDUkbzUkZzEkdDE3ODI3Njg1MzIkajU2JGwwJGgw"}
+            imageLink={"https://ae01.alicdn.com/kf/S269e8bfc830a4dd88111098122119449n.png"}
+            title={"Controlador de juegos inalámbrico 8BitDo Ultimate 2C"}
+            price={"S/. 118 soles"}
+          />
+          <Card
             shopLink={"https://www.mercadolibre.com.pe/afeitadora-my-balls-40-pro/up/MPEU2458661675?pdp_filters=item_id%3AMPE659701510&from=gshop&matt_tool=25903432&matt_word=&matt_source=google&matt_campaign_id=23396607108&matt_ad_group_id=190389139123&matt_match_type=&matt_network=g&matt_device=c&matt_creative=790000007698&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=5082135693&matt_product_id=MPEU2458661675&matt_product_partition_id=2454652782921&matt_target_id=aud-2457655439684:pla-2454652782921&cq_src=google_ads&cq_cmp=23396607108&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=23396607108&gbraid=0AAAAADt7RJLuj-fw1g7rp6huImGN3wX0j&gclid=CjwKCAjw0dPRBhAPEiwAE5vTTqQ7fZE2nk--UkGh63OrvE2EhfAJylhAAXU3Ygw4IHthoLwVb8Y80RoCWnkQAvD_BwE"}
             imageLink={"https://http2.mlstatic.com/D_NQ_NP_2X_680425-MPE109561080444_042026-F.webp"}
             title={"Afeitadora My Balls 4.0 Pro"}
